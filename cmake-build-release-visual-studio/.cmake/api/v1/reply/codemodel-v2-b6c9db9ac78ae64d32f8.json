@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.23"
+						"string" : "3.10"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "TestX2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TestX2-Release-5db106924fd8c5b8ee6f.json",
+					"jsonFile" : "target-TestX2-Release-641362428ece50e837b2.json",
 					"name" : "TestX2",
 					"projectIndex" : 0
 				}

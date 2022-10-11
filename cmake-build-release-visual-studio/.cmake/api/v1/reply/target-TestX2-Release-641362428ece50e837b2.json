@@ -52,7 +52,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd"
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG"
 				},
 				{
 					"fragment" : "-std:c++17"
@@ -62,7 +62,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/Reposit/TestX2/cmake-build-debug-visual-studio/../Includes"
+					"path" : "D:/Reposit/TestX2/cmake-build-release-visual-studio/../Includes"
 				}
 			],
 			"language" : "CXX",
