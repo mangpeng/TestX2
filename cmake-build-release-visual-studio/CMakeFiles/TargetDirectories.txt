@@ -1,0 +1,3 @@
+D:/Reposit/TestX2/cmake-build-release-visual-studio/CMakeFiles/TestX2.dir
+D:/Reposit/TestX2/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+D:/Reposit/TestX2/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
